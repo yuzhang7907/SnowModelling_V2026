@@ -1,0 +1,7 @@
+﻿  TheCode_NEST_Read1Climate_Console.cpp
+E:\Snow_Alaska\Modelling_2026\Codes\TheCode_NEST_Snow_Console\TheCode_NEST_Read1Climate_Console.cpp(638,20): warning C4101: 'Input_PeatThickness': unreferenced local variable
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 38 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  TheCode_NEST_Read1Climate_Console.vcxproj -> E:\Snow_Alaska\Modelling_2026\Codes\TheCode_NEST_Snow_Console\Release\TheCode_NEST_Read1Climate_Console.exe
