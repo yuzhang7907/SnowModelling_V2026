@@ -1,0 +1,4 @@
+﻿  Code_Call_exe_file.cpp
+G:\HBL\Mapping_Snow_2025\Codes\Code_Call_exe_file\Code_Call_exe_file.cpp(39,12): warning C4101: 'NN': unreferenced local variable
+G:\HBL\Mapping_Snow_2025\Codes\Code_Call_exe_file\Code_Call_exe_file.cpp(39,9): warning C4101: 'N': unreferenced local variable
+  Code_Call_exe_file.vcxproj -> G:\HBL\Mapping_Snow_2025\Codes\Code_Call_exe_file\Debug\Code_Call_exe_file.exe
